@@ -1,0 +1,8 @@
+[
+  "_encoder_init",
+  "_encoder_clear",
+  "_encoder_analysis_buffer",
+  "_encoder_process",
+  "_encoder_data_len",
+  "_encoder_transfer_data"
+]
