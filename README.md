@@ -105,6 +105,11 @@ After calling `.finish()`, all internal data is cleared (to avoid resource leak)
 encoder.cancel()
 ```
 
+* Parameters
+    * (none)
+* Returns
+    * (none)
+
 Cancel encoding and clear all internal data.
 
 You should call `.cancel()` manually to avoid resource leak when recording is canceled (encoder's internal memory is not deallocated by unbinding an object variable).
