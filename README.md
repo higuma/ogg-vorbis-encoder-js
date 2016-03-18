@@ -12,7 +12,7 @@ It was originally a fork of <https://github.com/Garciat/libvorbis.js> (and also 
 
 ## Demo
 
-<http://higuma.github.io/ogg-vorbis-encoder-js/>
+<https://boo-higuma.ssl-lolipop.jp/gh-pages/ogg-vorbis-encoder-js/>
 
 ## Library files
 
